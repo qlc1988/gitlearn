@@ -3,4 +3,5 @@ git is a free software distributed under GPL
 git has a mutable index called stage.
 git tracks changes of files.
 create a bew branch is quick as well as simple.
-test --no-ff without fastword
+test --no-ff without fastwor
+ready to stash in dev.
